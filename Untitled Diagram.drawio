@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:133.0) Gecko/20100101 Firefox/133.0" version="25.0.3">
   <diagram name="Page-1" id="Y0TVHzEXhYDWEignVO2z">
-    <mxGraphModel dx="2762" dy="1032" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3457" dy="1407" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -113,10 +113,22 @@
           <mxGeometry x="950" y="640" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cWNUB35YDtiMVpsdV3_J-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cWNUB35YDtiMVpsdV3_J-4" target="TLoTczXkmHmYarLnoum9-16">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="210" />
+              <mxPoint x="805" y="210" />
+              <mxPoint x="805" y="120" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="cWNUB35YDtiMVpsdV3_J-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cWNUB35YDtiMVpsdV3_J-4" target="TLoTczXkmHmYarLnoum9-34">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="760" y="270" />
+              <mxPoint x="805" y="270" />
+              <mxPoint x="805" y="360" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="cWNUB35YDtiMVpsdV3_J-4" value="Detalhes Máquina" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="200" width="120" height="80" as="geometry" />
